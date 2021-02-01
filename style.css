@@ -1,0 +1,13 @@
+body{
+	text-align: center;
+	background-color: aquamarine;
+}
+.SectionStyle{
+	margin-left:  25px;
+	margin-right: 25px;
+}
+.Section{
+	display:  flex;
+	justify-content: center;
+}
+
